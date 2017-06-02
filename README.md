@@ -2,8 +2,8 @@
 <html>
 <body>
 
-<h1>My First Heading</h1>
-<p>My first paragraph.</p>
+<h1>Balayya</h1>
+<p>Legend</p>
 
 </body>
 </html>
